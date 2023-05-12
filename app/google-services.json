@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "220293798268",
+    "firebase_url": "https://fir-1-2e47d.firebaseio.com",
+    "project_id": "fir-1-2e47d",
+    "storage_bucket": "fir-1-2e47d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220293798268:android:90d0f3221da6756b3b6cf9",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220293798268-j1g4tesuinj0odtcgu717r33hrneu289.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX6S42GbvcYCq5KFgecKRZ1IyY8rJMbdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220293798268-j1g4tesuinj0odtcgu717r33hrneu289.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220293798268:android:7f27d291fef5e4a13b6cf9",
+        "android_client_info": {
+          "package_name": "com.moracoding.firebaseexp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220293798268-j1g4tesuinj0odtcgu717r33hrneu289.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX6S42GbvcYCq5KFgecKRZ1IyY8rJMbdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220293798268-j1g4tesuinj0odtcgu717r33hrneu289.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220293798268:android:5bf78df0fd9f7e0f3b6cf9",
+        "android_client_info": {
+          "package_name": "mx.ipn.cic.geo.uso_realtime_database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220293798268-j1g4tesuinj0odtcgu717r33hrneu289.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX6S42GbvcYCq5KFgecKRZ1IyY8rJMbdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220293798268-j1g4tesuinj0odtcgu717r33hrneu289.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
